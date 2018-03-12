@@ -1,2 +1,2 @@
 # decrypt-story
-Decrypts text in Story.txt using Caesar cipher. 
+Decrypts Story.txt using Caesar cipher. 
